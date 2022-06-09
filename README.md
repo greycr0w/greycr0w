@@ -1,2 +1,2 @@
 
-<iframe src="[https://www.w3schools.com](https://badrishvili.com)" title="Hello"></iframe>
+<iframe src="https://badrishvili.com" title="Hello"></iframe>
