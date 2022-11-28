@@ -1,1 +1,1 @@
-<a href="https://badrishvili.com"><img src="https://gist.githubusercontent.com/greycr0w/9109255702e1319a7dfc1c89447f944b/raw/8c1649fb41e3eee548ff9daaf16c9b1084637564/greycr0w.svg" width="60%" height="60%"></a>
+Software Security
